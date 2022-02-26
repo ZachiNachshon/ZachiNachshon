@@ -32,7 +32,7 @@ I am an OSS enthusiast and I believe that the open source community is the corne
 
 <h5 id="build-tools-deps-mgmt">Build Tools / Dependency Management:</h5>
 
-<img src="assets/git.svg" height="20px"> [git-deps-syncer](https://github.com/ZachiNachshon/git-deps-syncer) - Sync git repositories as external source dependencies
+<img src="assets/git.svg" height="20px"> [git-deps-syncer](https://github.com/ZachiNachshon/git-deps-syncer) - Sync git repositories as external source dependencies<br>
 <img src="assets/bazel.svg" height="20px"> [wix/wix_build_tools ](https://github.com/wix-playground/wix_build_tools) - build rules and macros for Bazel
 
 <h5 id="iaac">Infrastructure as a Code:</h5>
@@ -54,5 +54,3 @@ I am an OSS enthusiast and I believe that the open source community is the corne
 * 2021-04-06 - Medium - [Install Certificate Manager Controller in Kubernetes](https://faun.pub/install-certificate-manager-controller-in-kubernetes-ba435aedf2e8)
 * 2021-02-21 - Medium - [Setting Up a Raspberry Pi Cluster](https://levelup.gitconnected.com/setting-up-a-raspberry-pi-cluster-b0fda1ee44ba)
 * 2021-02-02 - Medium - [Configure Local Environment Using Dotfiles](https://medium.com/wix-engineering/configure-local-environment-using-dotfiles-32cd327fb285)
-
-<br>
