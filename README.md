@@ -28,7 +28,7 @@ I am an OSS enthusiast and I believe that the open source community is the corne
 
 <h5 id="dev-tooling">Developer Tooling:</h5>
 
-:anchor: [anchor](https://github.com/ZachiNachshon/anchor) - Dynamic versioned controlled remote marketplace for local / CI environments
+:anchor: [anchor](https://github.com/ZachiNachshon/anchor) - Create Dynamic CLI's as your GitOps Marketplace
 
 <h5 id="build-tools-deps-mgmt">Build Tools / Dependency Management:</h5>
 
