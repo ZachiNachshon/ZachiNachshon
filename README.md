@@ -41,7 +41,7 @@ I am an OSS enthusiast and I believe that the open source community is the corne
 
 <h5 id="local-dev">Local Environment:</h5>
 
-<img src="assets/dotfiles.png" height="20px"> [dotfiles](https://github.com/ZachiNachshon/dotfiles) - Local development environment setup via dotfiles, Homebrew installations & macOS customization 
+<img src="assets/dotfiles.png" height="20px"> [dotfiles-cli](https://github.com/ZachiNachshon/dotfiles-cli) - CLI utility for managing a remote dotfiles repository 
 
 <br>
 
